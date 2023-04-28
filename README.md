@@ -1,7 +1,3 @@
-## IMPORTANT
-The node_modules folder has been removed from the client directory in order to reduce the size of the the zip file.
-In order to recover the node_modules directory create an empty temp directory and enter the command 'npx create-react-app temporary' then copy and paste the generated node_modules directory into the root directory of the client apps country_info_display directory.
-
 # Country Information App
 
 This application provides information about countries. It consists of a React frontend and an Express backend.
